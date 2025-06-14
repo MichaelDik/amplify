@@ -1,0 +1,32 @@
+[
+    {
+        "rank": 1,
+        "company": "Walmart",
+        "revenue": 559.2,
+        "profit": 13.7
+    },
+    {
+        "rank": 2,
+        "company": "Amazon",
+        "revenue": 386.1,
+        "profit": 21.3
+    },
+    {
+        "rank": 3,
+        "company": "State Grid",
+        "revenue": 387.1,
+        "profit": 9.2
+    },
+    {
+        "rank": 4,
+        "company": "China National Petroleum",
+        "revenue": 364.0,
+        "profit": 8.5
+    },
+    {
+        "rank": 5,
+        "company": "Sinopec",
+        "revenue": 359.0,
+        "profit": 6.7
+    }
+]
